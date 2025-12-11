@@ -1,7 +1,8 @@
 # Atul Singh — Portfolio
 
 Welcome to my portfolio repository.  
-I focus on building practical automation systems using Make.com, n8n, Google Workspace tools, APIs, and AI-powered RAG (Retrieval-Augmented Generation) workflows, creating solutions that reduce manual work and streamline business processes.
+**I focus on building practical automation systems using Make.com, n8n, Google Workspace tools, APIs, and AI-powered RAG (Retrieval-Augmented Generation) workflows, creating solutions that reduce manual work and streamline business processes.**
+
 ---
 
 ## 👨‍💻 About Me
