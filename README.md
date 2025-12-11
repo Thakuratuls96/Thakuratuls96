@@ -1,7 +1,7 @@
 # Atul Singh — Portfolio
 
 Welcome to my portfolio repository.  
-I focus on building practical automation systems using Make.com, n8n, Google Workspace tools, PDF.co, and APIs, and I create solutions that reduce manual work and streamline workflows.
+I focus on building practical automation systems using Make.com, n8n, Google Workspace tools and APIs, and I create solutions that reduce manual work and streamline workflows.
 
 ---
 
