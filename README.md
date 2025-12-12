@@ -51,7 +51,7 @@ Perfect for companies receiving high daily leads via email.
 ## 🧠 Skills
 **Automation:** Make.com, API Integration, Webhooks, Google Workspace Automation  
 **Frontend:** React, JavaScript, HTML/CSS  
-**Tools:** PDF.co, ngrok, Git/GitHub  
+**Tools:** Make.com, n8n, Zapier, Google Workspace (Sheets, Forms, Docs), APIs, Webhooks 
 **AI:** Using AI for research, summarization, and script workflows  
 
 ---
